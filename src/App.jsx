@@ -1,9 +1,11 @@
-import { Propriedades } from "./components/Propriedades/Propriedades";
+import { CompPai } from "./components/CompPai/CompPai";
 
 export function App() {
-  return <div>
-   
-  </div>;
+  return (
+  <div>
+    <CompPai />
+  </div>
+  );
 }
 
 /** <Propriedades
