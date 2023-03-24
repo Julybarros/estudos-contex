@@ -21,7 +21,7 @@ export function CompPai() {
       <br />
       <button className="btn btn-dark" onClick={repetir}>Repetir</button>
       <p>
-        <b>Valor:</b>
+        <b>Não perca o costume: </b>
         {batata}
       </p>
       <BatataContext.Provider value={batata}>

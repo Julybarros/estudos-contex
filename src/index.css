@@ -1,1 +1,16 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
+
+.card-card {
+    display: inline-flex;
+    padding-inline: 50px;
+    padding: 50px;
+    align-items: center;
+    text-align: center;
+}
+#login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+}
